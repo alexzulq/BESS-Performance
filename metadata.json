@@ -1,0 +1,5 @@
+{
+  "name": "BESS Performance",
+  "description": "A professional BESS performance dashboard for analyzing battery availability, cycling, and power metrics against budget.",
+  "requestFramePermissions": []
+}
